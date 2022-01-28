@@ -7,6 +7,16 @@
 
 - Contains lyrics from 120 different artists.
 
+### Genre Mapping:
+-----
+
+The additional genre mapping pdf file contains:
+
+- Each and every genre category that the original source dataset contains, and their counts.
+- The definitions of these genre categories that relate to their style and historical use.
+- The corresponding parent genre label.
+- Their category, which is used in the project to remove, keep or map to other genres.
+
 
 
 
